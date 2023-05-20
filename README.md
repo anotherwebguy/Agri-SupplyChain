@@ -46,7 +46,7 @@ Blockchain technology can be used to keep a number of agricultural insurance pro
 ## License
 [(Back to top)](#list-of-contents) <br><br>
 
-Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/anotherwebguy/AarogyaSheti/blob/master/LICENSE) for more information.
+Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/anotherwebguy/Agri-SupplyChain/blob/main/LICENSE) for more information.
 
 ## Contributors
 [(Back to top)](#list-of-contents) <br><br>
