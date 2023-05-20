@@ -1,0 +1,10 @@
+.actions-status {
+    margin-left: 22%;
+    overflow: auto;
+}
+
+.actions-left {
+    margin-left: 9.5vw;
+    display: flex;
+    margin-bottom: 2vh;
+}

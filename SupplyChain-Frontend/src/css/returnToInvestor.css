@@ -1,0 +1,22 @@
+.return-to-investor-body{
+    margin-top: 1.5vw; /* extra space below all forms later remove*/
+    margin-bottom: 1vw;
+    margin-left: 5vw;
+}
+
+.roi-card{
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    width: 80%;
+    margin-top: 2%;
+}
+
+.roi-header{
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}

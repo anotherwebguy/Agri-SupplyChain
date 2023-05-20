@@ -1,0 +1,22 @@
+.farmer-table {
+    margin-right: 2vw;
+    margin-top: 6vh;
+}
+
+.farmer-row {
+    text-align: center;
+}
+
+.h3f {
+    margin-top: 3vh;
+}
+
+.ReactModal__Content.ReactModal__Content--after-open {
+    margin-left: 32vw;
+    margin-right: 33vw;
+    height: 50%;
+}
+
+.top-header{
+    justify-content: space-between;
+}

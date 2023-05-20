@@ -1,0 +1,109 @@
+/* .cell-ka-item{
+    text-align: center;
+}
+
+.i-wala-icon{
+    color: white;
+}
+
+.investor-dabba{
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 6vh;
+}
+
+.container-left-investor{
+    margin-left: 12vw;
+    display: flex;
+    
+}
+
+.card-container-left-investor{
+    margin-left: -1vw;
+    width: 25vw;
+    margin-top: 8vh;
+    margin-right: 1vw;
+}
+
+.fa-check{
+    color: green;
+}
+
+.left-icon-investor{
+    margin-left: 1.5vw;
+    z-index: 1;
+    margin-top: 3vh;
+}
+
+.header-image-left-investor{
+    width: 7vw;
+}
+
+.header-image2-left-investor{
+    width: 7vw;
+    margin-left: 15.5vw;
+}
+
+
+.heading-container-left-investor{
+    display: flex;
+    justify-content: space-between;
+}
+
+.investor-right{
+    margin-top: -1vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.container-right-investor{
+    margin-left: 12vw;
+    margin-top: -1vh;
+    display: flex;
+    margin-bottom: 2vh;
+}
+
+.card-container-right-investor{
+    margin-left: 2vw;
+    width: 25vw;
+    margin-top: 9vh;
+    margin-right: 1vw;
+}
+
+
+.right-icon-investor{
+    margin-left: 26.5vw;
+    z-index: 1;
+    margin-top: 6vh;
+}
+
+.header-image-right-investor{
+    width: 7vw;
+}
+
+.header-image2-right-investor{
+    width: 7vw;
+    margin-left: 15.5vw;
+}
+
+
+.heading-container-right-investor{
+    display: flex;
+    justify-content: space-between;
+}
+ */
+
+.farmer-broadcast{
+    background-color: #f0f2f5;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.investor-card{
+    cursor: pointer;
+}
+
+.h3i{
+    padding-top: 2vh;
+    padding-left: 2vh;
+}

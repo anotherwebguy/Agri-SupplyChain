@@ -1,0 +1,9 @@
+.nav-tile{
+    cursor: pointer;
+}
+
+.navbar-vertical.navbar-expand-xs .navbar-collapse {
+    display: block;
+    overflow: auto;
+    height: 70vh;
+  }

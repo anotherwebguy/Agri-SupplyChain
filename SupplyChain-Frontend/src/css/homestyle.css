@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.home-body{
+    display: flex;
+    background-color: #f0f2f5;
+}
+
+.left-body{
+    height: 100vh;
+    width: 15.6vw;
+    margin-left: 2vw;
+}
+
+#sidenav-main{
+    position: relative;
+    margin-top: 1vh;
+}
+
+.sidebar-body{
+    padding-top: 4vh;
+}
+
+.right-body{
+    height: 100vh;
+    margin-left: 3vw;
+    padding-top: 4vh;
+    width: 100vw;
+    overflow: auto;
+}

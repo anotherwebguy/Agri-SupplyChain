@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^6.0.5",
+    "Logger": "^0.0.0"
+  }
+}

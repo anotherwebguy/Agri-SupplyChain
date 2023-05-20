@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.left-container{
+    width: 44%;
+    display: block;
+}
+
+.recommendationform-body{
+    margin-top: 1.5vw;
+    display: flex; /* extra space below all forms later remove*/
+    margin-bottom: 1vw;
+    margin-left: 5vw;
+}
+
+.right-container{
+    margin-left: 4vw;
+    width: 44%;
+    display: block;
+}
+
+.fertiliser-body{
+    margin-top: 2vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin-bottom: 1.5vw;
+}
+
+.crop-body{
+    margin-top: 2vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin-bottom: 1.5vw;
+}
+
+.nav-recom{
+    margin-left: 0vw;
+}

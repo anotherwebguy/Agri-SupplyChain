@@ -1,0 +1,37 @@
+.container-right {
+    margin-left: 9.5vw;
+    margin-top: 10vh;
+    display: flex;
+    margin-bottom: 2vh;
+}
+
+.card-container-right {
+    margin-left: 2vw;
+    width: 28vw;
+    margin-top: 5vh;
+    margin-right: 1vw;
+}
+
+.fa-check {
+    color: green;
+}
+
+.right-icon {
+    margin-left: 26.5vw;
+    z-index: 1
+}
+
+.header-image-right {
+    width: 7vw;
+}
+
+.header-image2-right {
+    width: 7vw;
+    margin-left: 17.5vw;
+}
+
+
+.heading-container-right {
+    display: flex;
+    justify-content: space-between;
+}

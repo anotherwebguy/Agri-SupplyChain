@@ -1,0 +1,36 @@
+.div-li {
+    display: inline-grid;
+  }
+
+.countainer {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.input-r {
+  margin: 0.5em;
+  margin-left: 0;
+  padding: 1em;
+  display: block;
+  overflow: scroll;
+}
+.label-r {
+  margin: 0.1em;
+  padding: 0.5em;
+}
+.btn-add {
+  width: 50%;
+  padding: 1em;
+  float: inline-end;
+  margin: 1em;
+}
+.note {
+  width: 90%;
+  padding: 11px;
+  padding-left: 1px;
+  text-align: justify;
+  max-height: 111px;
+  overflow: auto;
+  line-height: 1.5em;
+}

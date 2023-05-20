@@ -1,0 +1,11 @@
+.broadcast-body {
+    margin-left: 1vw;
+    overflow: auto;
+}
+
+.broadcast-form {
+    width: 32vw;
+    margin-left: 16vw;
+    margin-top: 7vh;
+    margin-bottom: 2vh;
+}

@@ -1,0 +1,55 @@
+.chota-hoja {
+    height: 40px;
+    width: 40px;
+    color: black;
+}
+
+.tabla {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.choti {
+    height: 190px;
+}
+
+.badi {
+    height: 50px;
+}
+
+.koti {
+    height: 60px;
+}
+
+.moti {
+    height: 90px
+}
+
+.spaci {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 200px;
+}
+
+.bajul {
+    margin-right: 20px;
+    height: 30px;
+}
+
+.badal{
+    font-size: 50px;
+}
+
+i.icon-blue {
+    color: blue;
+}
+
+i.icon-green {
+    color: green;
+}
+
+i.icon-purple {
+    color: purple;
+}
