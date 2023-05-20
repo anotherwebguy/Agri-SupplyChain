@@ -114,7 +114,7 @@ function Welcome() {
             <div className="idr row align-items-center">
               <div className="col-md-6 order-2 order-md-1 text-center text-md-left">
                 <h1 className="text-white font-weight-bold mb-4">
-                  SupplyChain
+                  Agri-SupplyChain
                 </h1>
                 <p className="text-white mb-5">
                   {" "}
